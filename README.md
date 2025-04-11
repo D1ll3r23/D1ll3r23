@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Dill
-- 🌱 I’m currently learning: Java
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im a femboy :3
+Hello! Im Dylan :3
